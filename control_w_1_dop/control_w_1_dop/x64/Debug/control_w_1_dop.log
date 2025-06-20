@@ -1,0 +1,58 @@
+﻿  control_w_1_dop.cpp
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(20,26): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(20,26): warning C4244:         with
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(20,26): warning C4244:         [
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(20,26): warning C4244:             T=int
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(20,26): warning C4244:         ]
+      C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(20,26):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(67,24):
+          see reference to class template instantiation 'Vector3DPolar<int>' being compiled
+          C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(19,11):
+          while compiling class template member function 'T Vector3DPolar<T>::getZ_cartesian_3d(void)'
+          with
+          [
+              T=int
+          ]
+              C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(50,15):
+              see the first reference to 'Vector3DPolar<int>::getZ_cartesian_3d' in 'Vector3DPolar<int>::display_cartesian_vector'
+              C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(68,32):
+              see the first reference to 'Vector3DPolar<int>::display_cartesian_vector' in 'main'
+  
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(17,37): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(17,37): warning C4244:         with
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(17,37): warning C4244:         [
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(17,37): warning C4244:             T=int
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(17,37): warning C4244:         ]
+      C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(17,37):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(16,11):
+          while compiling class template member function 'T Vector3DPolar<T>::getY_cartesian_3d(void)'
+          with
+          [
+              T=int
+          ]
+              C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(49,15):
+              see the first reference to 'Vector3DPolar<int>::getY_cartesian_3d' in 'Vector3DPolar<int>::display_cartesian_vector'
+              C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(68,32):
+              see the first reference to 'Vector3DPolar<int>::display_cartesian_vector' in 'main'
+  
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(14,37): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(14,37): warning C4244:         with
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(14,37): warning C4244:         [
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(14,37): warning C4244:             T=int
+C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(14,37): warning C4244:         ]
+      C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(14,37):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(13,11):
+          while compiling class template member function 'T Vector3DPolar<T>::getX_cartesian_3d(void)'
+          with
+          [
+              T=int
+          ]
+              C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(48,15):
+              see the first reference to 'Vector3DPolar<int>::getX_cartesian_3d' in 'Vector3DPolar<int>::display_cartesian_vector'
+              C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\control_w_1_dop\control_w_1_dop.cpp(68,32):
+              see the first reference to 'Vector3DPolar<int>::display_cartesian_vector' in 'main'
+  
+  control_w_1_dop.vcxproj -> C:\Users\Настя Самойлович\Desktop\Учеба в бнту\1 курс\ЯП\Control\control_w_1_dop\x64\Debug\control_w_1_dop.exe
